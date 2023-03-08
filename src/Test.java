@@ -25,6 +25,7 @@ public class Test extends SortTest implements Com{
 		test.age=2;
 		test.name="alice";
 		System.out.println("change: "+t.toString());
+		System.out.println(233);
 	}
 
 	public static void main(String[] args) {
